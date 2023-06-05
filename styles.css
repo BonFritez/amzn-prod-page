@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: 007185;
+    font-size: 15px;
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+}
+
+a {
+    color: #565959;
+    text-decoration: none;
+}
+
+.crumb {
+    font-size: 12px;
+}
+
+main {
+    display: flex; 
+}
+
+.auth-link {
+    color: #007185;
+    text-decoration: underline;
+}
+
+img {
+    width: 300px; 
+}
+
+.left {
+    margin: 0 30px 0 20px;
+}
+
+.rating-img {
+    width: 100px; 
+}
+
+.main-txt {
+    width: 500px;
+}
